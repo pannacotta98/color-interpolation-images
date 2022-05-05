@@ -2,6 +2,8 @@
 title: Artifact-Free Color Interpolation
 ---
 
+{:toc}
+
 ## Links
 
 - [GIMP plugin](https://github.com/pannacotta98/ogniewski-scaler)
