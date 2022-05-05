@@ -2,6 +2,8 @@
 title: Artifact-Free Color Interpolation
 ---
 
+## Table of Contents
+
 - Will be replaced with the ToC, excluding the "Contents" header
 {:toc}
 
@@ -13,5 +15,6 @@ title: Artifact-Free Color Interpolation
 
 Click on the images...
 
+### Snail
 ![Snail original](images/ugly-snail.png)
 
