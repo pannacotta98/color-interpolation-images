@@ -3,7 +3,7 @@ title: Artifact-Free Color Interpolation
 ---
 
 - Will be replaced with the ToC, excluding the "Contents" header
-  {:toc}
+{:toc}
 
 ## Links
 
