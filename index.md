@@ -2,7 +2,8 @@
 title: Artifact-Free Color Interpolation
 ---
 
-{:toc}
+- Will be replaced with the ToC, excluding the "Contents" header
+  {:toc}
 
 ## Links
 
