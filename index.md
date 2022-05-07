@@ -16,6 +16,10 @@ description: Images from our master thesis
 
 Click on the images...
 
-### Snail
+### Figure ? — Snail
+Figure caption here stuffs
 ![Snail original](images/ugly-snail.png)
 
+### Figure ? — Snail 2
+Figure caption here stuffs
+![Snail original](images/ugly-snail.png)
