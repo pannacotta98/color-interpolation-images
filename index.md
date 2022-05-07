@@ -17,9 +17,21 @@ description: Images from our master thesis
 Click on the images...
 
 ### Figure ?: Snail
-Figure caption here stuffs
+<small>Figure caption here stuffs</small>
+
 ![Snail original](images/ugly-snail.png)
 
 ### Figure ?
-<small>SSIM, PSNR and S-CIELAB results of upscaling in different color spaces presented as box plots. Ten Images were upscaled in six different color spaces. SSIM: Higher value indicates better quality. PSNR: Higher value indicates better quality. S-CIELAB: Lower mean error indicates better quality.<small>
+<small>SSIM, PSNR and S-CIELAB results of upscaling in different color spaces presented as box plots. Ten Images were upscaled in six different color spaces. SSIM: Higher value indicates better quality. PSNR: Higher value indicates better quality. S-CIELAB: Lower mean error indicates better quality.</small>
+
 ![Snail original](images/ugly-snail.png)
+
+### Appendix ?: Many images
+<small>Testsetsliet</small>
+
+#### HSV
+![HSV](images/color-thing-up-4-hsv.png)
+
+#### Also HSV
+![](images/color-thing-up-4-hsv.png)
+![](images/color-thing-up-4-hsv.png)
