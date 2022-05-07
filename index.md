@@ -29,15 +29,12 @@ Click on the images...
 ### Appendix ?: Many images
 <small>Testsetsliet</small>
 
-| ![HSV](images/color-thing-up-4-hsv.png) |
-|:--:|
-| Caption |
+| ![HSV](images/color-thing-up-4-hsv.png) | ![](images/color-thing-up-4-hsv.png) | ![](images/color-thing-up-4-hsv.png) |
+|:--:|:--:|:--:|
+| Caption | Caption2 | Caption3 |
+| ![HSV](images/color-thing-up-4-hsv.png) | ![](images/color-thing-up-4-hsv.png) | |
+| Caption | Caption2 |  |
 
-![](images/color-thing-up-4-hsv.png)
-*image caption*
-
-![](images/color-thing-up-4-hsv.png)
-*image caption*
 
 <style>
 img + em { text-align: center; } 
