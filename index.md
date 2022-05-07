@@ -1,5 +1,6 @@
 ---
 title: Artifact-Free Color Interpolation
+description: TODO
 ---
 
 ## Table of Contents
