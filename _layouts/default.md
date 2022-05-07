@@ -30,8 +30,7 @@
     <main id="content" class="main-content" role="main">
 <!--I think maybe the lack of indentation is needed here-->
 <aside markdown="1">
-<h4>Table of Contents</h4>
-* ToC
+- ToC
 {:toc}
 </aside>
 
