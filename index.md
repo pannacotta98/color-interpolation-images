@@ -1,6 +1,6 @@
 ---
 title: Artifact-Free Color Interpolation
-description: TODO
+description: Images from our master thesis
 ---
 
 ## Table of Contents
