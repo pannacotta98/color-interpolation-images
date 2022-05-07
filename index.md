@@ -29,8 +29,9 @@ Click on the images...
 ### Appendix ?: Many images
 <small>Testsetsliet</small>
 
-![HSV](images/color-thing-up-4-hsv.png)
-*HSV*
+| ![HSV](images/color-thing-up-4-hsv.png) |
+|:--:|
+| Caption |
 
 ![](images/color-thing-up-4-hsv.png)
 *image caption*
