@@ -20,6 +20,6 @@ Click on the images...
 Figure caption here stuffs
 ![Snail original](images/ugly-snail.png)
 
-### Figure ?: SSIM, PSNR and S-CIELAB results of upscaling in different color spaces presented as box plots. Ten Images were upscaled in six different color spaces. SSIM: Higher value indicates better quality. PSNR: Higher value indicates better quality. S-CIELAB: Lower mean error indicates better quality.
-Figure caption here stuffs
+### Figure ?
+<small>SSIM, PSNR and S-CIELAB results of upscaling in different color spaces presented as box plots. Ten Images were upscaled in six different color spaces. SSIM: Higher value indicates better quality. PSNR: Higher value indicates better quality. S-CIELAB: Lower mean error indicates better quality.<small>
 ![Snail original](images/ugly-snail.png)
