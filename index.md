@@ -1,9 +1,19 @@
 ---
-title: Artifact-Free Color Interpolation
-description: Images from our master thesis
+title: Artifact-Free Image Scaling
+description: An Evaluation of an Artifact-Free Color Interpolation Algorithm with Respect to Visual Quality
 ---
 
-## Table of Contents
+## Links
+
+{{ page.path }}
+
+[Raw images from the report]()
+
+[GIMP plugin](https://github.com/pannacotta98/ogniewski-scaler)
+
+[Ogniewski's paper describing the interpolation](https://doi.org/10.1145/2788539.2788556)
+
+<!-- ## Table of Contents
 
 - Will be replaced with the ToC, excluding the "Contents" header
 {:toc}
@@ -32,9 +42,10 @@ Testsetsliet
 | ![HSV](images/color-thing-up-4-hsv.png) Caption | ![](images/color-thing-up-4-hsv.png) Caption2 | ![](images/color-thing-up-4-hsv.png) Caption3 |
 |:--:|:--:|:--:|
 | ![HSV](images/color-thing-up-4-hsv.png) | ![](images/color-thing-up-4-hsv.png) | |
-| Caption4 | Caption5 |  |
+| Caption4 | Caption5 |  | -->
 
 
 <style>
 img + em { text-align: center; } 
+* { text-align: center; }
 </style>
