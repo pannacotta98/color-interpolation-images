@@ -5,9 +5,7 @@ description: An Evaluation of an Artifact-Free Color Interpolation Algorithm wit
 
 ## Links
 
-{{ page.path }}
-
-[Raw images from the report]()
+[Download images from the report](report-images.zip)
 
 [GIMP plugin](https://github.com/pannacotta98/ogniewski-scaler)
 
